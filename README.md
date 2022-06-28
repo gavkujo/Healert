@@ -22,10 +22,10 @@ Create Anything using Python and its modules that involve DataBase Handling and 
 
 This Project was made for the CS Investigatory Project 2022 for Grade 12.
 This Project was made by
-  Name: Garv Sachdev\n
-  Class: 12 B\n
-  Roll Number: 29\n
-  School: Delhi Public School, Navi Mumbai\n
+- Name: Garv Sachdev
+- Class: 12 B
+- Roll Number: 29
+- School: Delhi Public School, Navi Mumbai
 
 ## Screenshots
 
