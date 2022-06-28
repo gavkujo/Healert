@@ -27,7 +27,8 @@ This Project was made by
 - Roll Number: 29
 - School: Delhi Public School, Navi Mumbai
 
-## Screenshots
+## The Project:
 
 ![App Screenshot](https://github.com/gavkujo/medication-tracker-using-tkinter/blob/main/Assets/ReadmeSs/Screenshot%202022-06-28%20at%2023.07.56.png)
-
+![App Screenshot](https://github.com/gavkujo/medication-tracker-using-tkinter/blob/main/Assets/ReadmeSs/Screenshot%202022-06-28%20at%2023.14.22.png)
+One of the Start-Up Pages
