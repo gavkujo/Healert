@@ -29,20 +29,21 @@ This Project was made by
 
 ## Screenshots From the Project:
 
-One of the Start-Up Pages:
+### One of the Start-Up Pages:
 ![App Screenshot](https://github.com/gavkujo/medication-tracker-using-tkinter/blob/main/Assets/ReadmeSs/Screenshot%202022-06-28%20at%2023.07.56.png)
 
-The Sign-In Page;
+### The Sign-In Page;
 ![App Screenshot](https://github.com/gavkujo/medication-tracker-using-tkinter/blob/main/Assets/ReadmeSs/Screenshot%202022-06-28%20at%2023.22.59.png)
 
-The Dashboard:
+### The Dashboard:
 ![App Screenshot](https://github.com/gavkujo/medication-tracker-using-tkinter/blob/main/Assets/ReadmeSs/Screenshot%202022-06-28%20at%2023.07.56.png)
 
-The Profile Page:
+### The Profile Page:
 ![App Screenshot](https://github.com/gavkujo/medication-tracker-using-tkinter/blob/main/Assets/ReadmeSs/Screenshot%202022-06-28%20at%2023.15.49.png)
 
-The Prescription Entry Page:
+### The Prescription Entry Page:
 ![App Screenshot](https://github.com/gavkujo/medication-tracker-using-tkinter/blob/main/Assets/ReadmeSs/Screenshot%202022-06-28%20at%2023.16.14.png)
 
-Log out popup:
+### Log out popup:
+
 ![App Screenshot](https://github.com/gavkujo/medication-tracker-using-tkinter/blob/main/Assets/ReadmeSs/Screenshot%202022-06-28%20at%2023.16.41.png)
