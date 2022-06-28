@@ -27,23 +27,30 @@ This Project was made by
 - Roll Number: 29
 - School: Delhi Public School, Navi Mumbai
 
+## A Log for what is left
+
+- [ ] Dictionary for Quotes and DYK in the Dashboard
+- [ ] PAE Entry viewer
+- [ ] An Email reminder system (Possibly)
+- [ ] GUI Design changes (From Rectangles to Images)
+
 ## Screenshots From the Project:
 
-### One of the Start-Up Pages:
+### 1) One of the Start-Up Pages:
 ![App Screenshot](https://github.com/gavkujo/medication-tracker-using-tkinter/blob/main/Assets/ReadmeSs/Screenshot%202022-06-28%20at%2023.07.56.png)
 
-### The Sign-In Page;
+### 2) The Sign-In Page:
 ![App Screenshot](https://github.com/gavkujo/medication-tracker-using-tkinter/blob/main/Assets/ReadmeSs/Screenshot%202022-06-28%20at%2023.22.59.png)
 
-### The Dashboard:
+### 3) The Dashboard:
 ![App Screenshot](https://github.com/gavkujo/medication-tracker-using-tkinter/blob/main/Assets/ReadmeSs/Screenshot%202022-06-28%20at%2023.07.56.png)
 
-### The Profile Page:
+### 4) The Profile Page:
 ![App Screenshot](https://github.com/gavkujo/medication-tracker-using-tkinter/blob/main/Assets/ReadmeSs/Screenshot%202022-06-28%20at%2023.15.49.png)
 
-### The Prescription Entry Page:
+### 5) The Prescription Entry Page:
 ![App Screenshot](https://github.com/gavkujo/medication-tracker-using-tkinter/blob/main/Assets/ReadmeSs/Screenshot%202022-06-28%20at%2023.16.14.png)
 
-### Log out popup:
+### 6) Log out popup:
 
 ![App Screenshot](https://github.com/gavkujo/medication-tracker-using-tkinter/blob/main/Assets/ReadmeSs/Screenshot%202022-06-28%20at%2023.16.41.png)
