@@ -29,5 +29,5 @@ This Project was made by
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/gavkujo/medication-tracker-using-tkinter/blob/main/Assets/ReadmeSs/Screenshot%202022-06-28%20at%2023.07.56.png)
 
