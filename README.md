@@ -18,7 +18,7 @@ Create Anything using Python and its modules that involve DataBase Handling and 
 -  [x] json (For File Handling)
 -  [x] os and sys (For misc use)
 
-## Appendix
+## Purpose
 
 This Project was made for the CS Investigatory Project 2022 for Grade 12.
 This Project was made by
@@ -27,8 +27,22 @@ This Project was made by
 - Roll Number: 29
 - School: Delhi Public School, Navi Mumbai
 
-## The Project:
+## Screenshots From the Project:
 
+One of the Start-Up Pages:
 ![App Screenshot](https://github.com/gavkujo/medication-tracker-using-tkinter/blob/main/Assets/ReadmeSs/Screenshot%202022-06-28%20at%2023.07.56.png)
-![App Screenshot](https://github.com/gavkujo/medication-tracker-using-tkinter/blob/main/Assets/ReadmeSs/Screenshot%202022-06-28%20at%2023.14.22.png)
-One of the Start-Up Pages
+
+The Sign-In Page;
+![App Screenshot](https://github.com/gavkujo/medication-tracker-using-tkinter/blob/main/Assets/ReadmeSs/Screenshot%202022-06-28%20at%2023.22.59.png)
+
+The Dashboard:
+![App Screenshot](https://github.com/gavkujo/medication-tracker-using-tkinter/blob/main/Assets/ReadmeSs/Screenshot%202022-06-28%20at%2023.07.56.png)
+
+The Profile Page:
+![App Screenshot](https://github.com/gavkujo/medication-tracker-using-tkinter/blob/main/Assets/ReadmeSs/Screenshot%202022-06-28%20at%2023.15.49.png)
+
+The Prescription Entry Page:
+![App Screenshot](https://github.com/gavkujo/medication-tracker-using-tkinter/blob/main/Assets/ReadmeSs/Screenshot%202022-06-28%20at%2023.16.14.png)
+
+Log out popup:
+![App Screenshot](https://github.com/gavkujo/medication-tracker-using-tkinter/blob/main/Assets/ReadmeSs/Screenshot%202022-06-28%20at%2023.16.41.png)
